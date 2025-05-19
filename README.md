@@ -1,69 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #24292e;
-        }
-        h1, h2, h3 {
-            color: #0366d6;
-            margin-top: 24px;
-            margin-bottom: 16px;
-        }
-        h1 {
-            font-size: 2em;
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 0.3em;
-        }
-        h2 {
-            font-size: 1.5em;
-            border-bottom: 1px solid #eaecef;
-        }
-        code {
-            background-color: rgba(27, 31, 35, 0.05);
-            border-radius: 3px;
-            padding: 0.2em 0.4em;
-            font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-        }
-        pre {
-            background-color: #f6f8fa;
-            border-radius: 3px;
-            padding: 16px;
-            overflow: auto;
-        }
-        .badge {
-            display: inline-block;
-            padding: 3px 6px;
-            font-size: 14px;
-            font-weight: 600;
-            line-height: 1;
-            color: #fff;
-            background-color: #0366d6;
-            border-radius: 3px;
-            margin-right: 5px;
-            margin-bottom: 5px;
-        }
-        .feature-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin: 15px 0;
-        }
-        .feature-item {
-            flex: 1 1 200px;
-            padding: 10px;
-            background: #f6f8fa;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
     <h1>🚀 FastAPI Docker Codespaces Boilerplate</h1>
     <p>Instant FastAPI Development in GitHub Codespaces with Docker & Hot-Reload</p>
     
@@ -181,5 +117,4 @@
         <li><a href="https://fastapi.tiangolo.com" target="_blank">FastAPI Documentation</a></li>
         <li><a href="https://docs.github.com/codespaces" target="_blank">GitHub Codespaces Docs</a></li>
     </ul>
-</body>
 </html>
