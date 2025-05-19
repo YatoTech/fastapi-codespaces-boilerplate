@@ -104,7 +104,7 @@ GET /health      → {"status": "healthy"}</code></pre>
 </ul>
 
 <h2>📜 License</h2>
-<p>MIT © <a href="https://github.com/YatoTech" target="_blank">Your Name</a></p>
+<p>MIT © <a href="https://github.com/YatoTech" target="_blank">YatoTech</a></p>
 
 <h2>🔗 Useful Links</h2>
 <ul>
