@@ -2,42 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>FastAPI Docker Codespaces Boilerplate</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 1rem;
-      overflow: auto;
-      border-radius: 6px;
-    }
-    .badge {
-      display: inline-block;
-      padding: 0.4em 0.7em;
-      margin: 0.2em;
-      font-size: 0.9em;
-      border-radius: 0.3em;
-      color: #fff;
-    }
-    .github { background-color: #333; }
-    .fastapi { background-color: #009688; }
-    .docker { background-color: #2496ed; }
-    h1, h2, h3, h4 {
-      margin-top: 2rem;
-    }
-  </style>
 </head>
 <body>
 
